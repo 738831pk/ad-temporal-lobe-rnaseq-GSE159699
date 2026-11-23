@@ -1,0 +1,17 @@
+name: geo-de
+channels:
+- conda-forge
+- bioconda
+dependencies:
+- r-base
+- r-data.table
+- r-ggplot2
+- r-ggrepel
+- r-pheatmap
+- r-dplyr
+- bioconductor-geoquery
+- bioconductor-deseq2
+- bioconductor-apeglm
+- bioconductor-clusterprofiler
+- bioconductor-org.hs.eg.db
+- bioconductor-enrichplot
